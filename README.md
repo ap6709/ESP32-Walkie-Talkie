@@ -46,3 +46,12 @@ Want to leave your mark on this project before the sands of time swallow us all?
 1.  **Fork** this repository! 🍴
 2.  **Tinker** with the code (add encryption? text messaging? alien sound effects? 👽🎹).
 3.  **Submit** a Pull Request! All brilliant minds are welcome here. 🧠⚡
+## 📻 Network Architecture: The Squad Limit
+To maintain a fast, screen-less user interface, this transceiver uses a sequential channel selector button with LED flash-confirmation. 
+* **The Hardware Cap:** ESP-NOW is strictly limited to 20 registered peers.
+* **The UX Cap:** We artificially limit the address book to 5 users. Counting more than 5 LED flashes to confirm a channel is terrible UX!
+* ## 🎮 User Interface: The LED Signal System
+Since this device has no screen, it uses "Flash Patterns" to tell you who you are talking to:
+* **Channels 1 - 6 (Squad):** Short blinks corresponding to the teammate's number (e.g., 3 blinks = Friend 3).
+* **Channel 7 (Broadcast):** One **long 1.5s pulse**. This indicates you are in 'Global Mode'—everyone in range will hear you.
+* **Idle State:** A dim, breathing glow indicates the system is powered and the LiFePO4 battery is healthy.
