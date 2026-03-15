@@ -27,7 +27,7 @@ Here is the sacred loot required to build one complete transceiver node (you nee
 ## 📸 Visual Data Logs 📼👁️‍🗨️
 *(Note to self: Upload the high-res progress photos taken with the work phone right here! Let the world see the breadboard evolution! 📱👷‍♂️)*
 
-* **[Insert Photo 1: The Empty Breadboard Canvas]** 🖼️
+* **![Your Description Here](The humble beginnigs.jpg)** 🖼️
 * **[Insert Photo 2: The First Wiring Attempt]** 🕸️
 * **[Insert Photo 3: The Glowing LEDs of Success]** 💡🔥
 
