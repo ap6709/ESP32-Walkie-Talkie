@@ -27,8 +27,8 @@ Here is the sacred loot required to build one complete transceiver node (you nee
 ## 📸 Visual Data Logs 📼👁️‍🗨️
 *(Note to self: Upload the high-res progress photos taken with the work phone right here! Let the world see the breadboard evolution! 📱👷‍♂️)*
 
-* **![Your Description Here](https://github.com/ap6709/ESP32-Walkie-Talkie/blob/main/The%20humble%20beginnings.jpg)** 🖼️
-* **[Insert Photo 2: The First Wiring Attempt]** 🕸️
+* **!The Humble Beginnings(https://github.com/ap6709/ESP32-Walkie-Talkie/blob/main/The%20humble%20beginnings.jpg)** 🖼️
+* **The First Wiring Attempt** (https://github.com/ap6709/ESP32-Walkie-Talkie/blob/main/image.png) 🕸️
 * **[Insert Photo 3: The Glowing LEDs of Success]** 💡🔥
 
 ---
